@@ -67,7 +67,7 @@ A comprehensive system for village administration — managing citizen data, per
 ## 🌐 Professional Network
 
 📧 **Email**: [indalawalaikal05@gmail.com](mailto:indalawalaikal05@gmail.com)  
-🔗 **LinkedIn**: [linkedin.com/in/indalawalaikal](https://linkedin.com/in/indalawalaikal)
+🔗 **LinkedIn**: [linkedin.com/in/indalawalaikal](https://linkedin.com/in/indalawalaikal)  
 💻 **GitHub**: [@IndalAwalaikal](https://github.com/IndalAwalaikal)  
 🏛️ **Organization**: [COCONUT Computer Club](https://github.com/COCONUT-hacklab)  
 📍 **Location**: Makassar, South Sulawesi, Indonesia
