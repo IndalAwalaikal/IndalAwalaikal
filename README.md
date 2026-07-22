@@ -1,30 +1,40 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1a1f2e,75:0f766e,100:00df8f&height=250&section=header&text=Indal%20Awalaikal&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20%26%20Backend%20Developer%20%E2%80%A2%20AI%20Systems%20Integrator&descAlignY=55&descSize=18&descColor=b8f5dc" width="100%"/>
+
 <div align="center">
-
-<!-- Dynamic Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:0f172a,70:1e1b4b,100:0f0c29&height=220&section=header&text=Indal%20Awalaikal&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20Backend%20Developer%20%E2%80%A2%20AI%20Systems%20Integrator&descAlignY=58&descSize=18&descColor=00df8f" width="100%"/>
-
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=00DF8F&center=true&vCenter=true&multiline=false&width=650&lines=Full-Stack+%26+Backend+Developer;Crafting+scalable+backends+with+Go+%26+Python;Building+AI-driven+apps+%26+SaaS+solutions;UNM+Computer+Engineering+Student;COCONUT+Computer+Club+Executive+Board" alt="Typing SVG" />
 
 <br/>
 
-<!-- Profile Views & Socials -->
-<a href="https://indalawalaikal.my.id"><img src="https://img.shields.io/badge/Website-indalawalaikal.my.id-00df8f?style=flat-square&logo=googlechrome&logoColor=black" /></a>
-<a href="mailto:indalawalaikal05@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/indalawalaikal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/IndalAwalaikal"><img src="https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="https://twitter.com/IndalAwalaikal"><img src="https://img.shields.io/badge/Twitter-1d9bf0?style=flat-square&logo=twitter&logoColor=white" /></a>
+<!-- Animated Typing -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00DF8F&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=%E2%9A%A1+Full-Stack+%26+Backend+Developer+%7C+Go+%26+Python;%F0%9F%A4%96+Building+AI-Driven+Systems+%26+SaaS+Platforms;%F0%9F%8E%93+Teknik+Informatika+%40+Universitas+Negeri+Makassar;%F0%9F%A5%A5+COCONUT+Computer+Club+Executive+Board+%26+Backend+Dev;%F0%9F%8C%90+indalawalaikal.my.id" alt="Typing SVG" /></a>
+
+<br/>
+
+<!-- Social Badges with Gradient Style -->
+<a href="https://indalawalaikal.my.id"><img src="https://img.shields.io/badge/🌐_Portfolio-indalawalaikal.my.id-00df8f?style=for-the-badge&labelColor=0d1117" /></a>&nbsp;
+<a href="mailto:indalawalaikal05@gmail.com"><img src="https://img.shields.io/badge/📧_Email-indalawalaikal05-EA4335?style=for-the-badge&labelColor=0d1117" /></a>&nbsp;
+<a href="https://linkedin.com/in/indalawalaikal"><img src="https://img.shields.io/badge/💼_LinkedIn-indalawalaikal-0A66C2?style=for-the-badge&labelColor=0d1117" /></a>
+
+<br/>
+
+<a href="https://github.com/IndalAwalaikal"><img src="https://img.shields.io/badge/🐙_GitHub-IndalAwalaikal-161b22?style=for-the-badge&labelColor=0d1117" /></a>&nbsp;
+<a href="https://twitter.com/IndalAwalaikal"><img src="https://img.shields.io/badge/🐦_Twitter-@IndalAwalaikal-1d9bf0?style=for-the-badge&labelColor=0d1117" /></a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=IndalAwalaikal&color=00df8f&style=flat-square&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/IndalAwalaikal?style=flat-square&color=00df8f&labelColor=161b22)
+![Profile Views](https://komarev.com/ghpvc/?username=IndalAwalaikal&color=00df8f&style=for-the-badge&label=PROFILE+VIEWS)&nbsp;&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/IndalAwalaikal?style=for-the-badge&color=00df8f&labelColor=0d1117&label=FOLLOWERS)&nbsp;&nbsp;
+![GitHub stars](https://img.shields.io/github/stars/IndalAwalaikal?style=for-the-badge&color=00df8f&labelColor=0d1117&label=TOTAL+STARS&affiliations=OWNER)
 
 </div>
 
----
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## ⚡ About Me
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
+
+<table>
+<tr>
+<td width="55%">
 
 ```go
 package main
@@ -32,281 +42,411 @@ package main
 import "fmt"
 
 type Developer struct {
-    Name         string
-    Role         string
-    Education    string
-    Location     string
-    Community    string
-    Website      string
-    CoreStack    []string
-    FocusAreas   []string
+    Name       string
+    Role       string
+    Education  string
+    Location   string
+    Community  string
+    Website    string
+    Stack      []string
+    Focus      []string
 }
 
 func main() {
-    indal := Developer{
+    me := Developer{
         Name:      "Indal Awalaikal",
         Role:      "Full-Stack & Backend Developer",
-        Education: "Teknik Informatika & Komputer @ Universitas Negeri Makassar",
-        Location:  "Makassar, South Sulawesi, Indonesia 🇮🇩",
-        Community: "COCONUT Computer Club (Executive Board & Backend Dev)",
+        Education: "Teknik Informatika & Komputer" +
+                   " @ Universitas Negeri Makassar",
+        Location:  "Makassar, Indonesia 🇮🇩",
+        Community: "COCONUT Computer Club" +
+                   " (BPH & Backend Developer)",
         Website:   "https://indalawalaikal.my.id",
-        CoreStack: []string{"Go (Gin/Fiber)", "Python (FastAPI)", "TypeScript", "React/Next.js", "PostgreSQL", "Docker"},
-        FocusAreas: []string{
-            "Scalable Backend Infrastructure & Microservices",
-            "Full-Stack SaaS & Web Applications",
+        Stack: []string{
+            "Go (Gin/Fiber)", "Python (FastAPI)",
+            "TypeScript", "React/Next.js",
+            "PostgreSQL", "Docker",
+        },
+        Focus: []string{
+            "Scalable Backend & Microservices",
             "AI Agent & LLM Orchestration",
-            "Clean Architecture & Performance Optimization",
+            "Full-Stack SaaS Platforms",
+            "Clean Architecture & TDD",
         },
     }
 
-    fmt.Printf("👋 Hi, I'm %s!\n", indal.Name)
-    fmt.Printf("🚀 %s\n", indal.Role)
-    fmt.Printf("📍 %s | 🌐 %s\n", indal.Location, indal.Website)
+    fmt.Printf("👋 Hi, I'm %s!\n", me.Name)
+    fmt.Printf("🚀 %s\n", me.Role)
+    fmt.Printf("🌐 %s\n", me.Website)
 }
 ```
 
----
+</td>
+<td width="45%">
 
-## 🛠️ Technology Arsenal
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndalAwalaikal&layout=donut-vertical&theme=react&hide_border=true&bg_color=0d1117&title_color=00df8f&text_color=c9d1d9&langs_count=6" width="100%" alt="Top Languages"/>
+
+<br/>
 
 <div align="center">
 
-### ◆ Core Languages
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ◆ Backend & Frameworks
-![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Fiber](https://img.shields.io/badge/Fiber-00ACD7?style=for-the-badge&logo=go&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-0055DA?style=for-the-badge&logo=postman&logoColor=white)
-
-### ◆ Frontend & UI
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-
-### ◆ Databases & Caching
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### ◆ DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+| 💡 | Quick Facts |
+|:---:|:---|
+| 🎓 | Teknik Informatika & Komputer, UNM |
+| 🥥 | COCONUT Computer Club — BPH & Backend Dev |
+| 🛡️ | IDSECCONF 2025 Local Committee |
+| 🌍 | Based in Makassar, WITA (UTC+8) |
+| 🗣️ | Indonesian & English |
 
 </div>
 
----
+</td>
+</tr>
+</table>
 
-## 🚀 Featured Projects
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Technology Arsenal
 
 <div align="center">
 
-> _Engineering high-performance applications, AI platforms, and SaaS solutions_
+<!-- Skillicons Grid -->
+<p>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=go,python,typescript,javascript,html,css&theme=dark&perline=6" alt="Languages"/>
+</a>
+</p>
 
+<p>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs,express&theme=dark&perline=6" alt="Frameworks"/>
+</a>
+</p>
+
+<p>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,nginx&theme=dark&perline=6" alt="Infrastructure"/>
+</a>
+</p>
+
+<p>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,aws,postman&theme=dark&perline=6" alt="Tools"/>
+</a>
+</p>
+
+<br/>
+
+<details>
+<summary><b>📋 Detailed Technology Breakdown</b></summary>
+<br/>
+
+| Layer | Technologies |
+|:---|:---|
+| **🔧 Backend** | Go (Gin/Fiber) · Python (FastAPI/Flask) · Node.js · Express.js · REST API · gRPC |
+| **⚛️ Frontend** | React · Next.js · Vite · TypeScript · Tailwind CSS · Framer Motion |
+| **💾 Database** | PostgreSQL · MySQL · MongoDB · Redis · Query Optimization |
+| **☁️ DevOps** | Docker · NGINX · GitHub Actions · CI/CD · Linux · AWS |
+| **🧠 AI/ML** | LangGraph · Gemini API · Groq · Multi-LLM Orchestration |
+| **🏛️ Practices** | Clean Architecture · SOLID · DDD · TDD · Microservices |
+
+</details>
+
+</div>
+
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Featured Projects
+
+<div align="center">
+<i>Engineering high-performance applications, AI platforms, and SaaS solutions</i>
+<br/><br/>
 </div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AgentOps AI
-> **Autonomous DevOps Self-Healing Platform**
+<h3 align="center">🤖 AgentOps AI</h3>
 
-AI-powered DevOps platform utilizing multi-LLM orchestration (OpenAI, Claude, Gemini, DeepSeek, Groq) with LangGraph for real-time log analysis, automated root-cause diagnosis, and system self-healing workflows.
+<div align="center">
 
-**Stack:** `Next.js` · `TypeScript` · `FastAPI` · `LangGraph` · `Tailwind`
+**Autonomous DevOps Self-Healing Platform**
 
-[![Repo](https://img.shields.io/badge/Repository-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/IndalAwalaikal/Agentic-Devops)
+[![Repo](https://img.shields.io/badge/⭐_Source_Code-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IndalAwalaikal/Agentic-Devops)
 
-</td>
-<td width="50%" valign="top">
+</div>
 
-### 🌾 AgroAdvisor
-> **Smart Agriculture & AI Advisory Platform**
+AI-powered DevOps platform with **multi-LLM orchestration** (OpenAI, Claude, Gemini, DeepSeek, Groq) using LangGraph for automated root-cause diagnosis and system self-healing.
 
-Smart agriculture platform integrating LLM intelligent recommendations (Gemini & Groq API) for optimal crop cultivation, irrigation scheduling, and real-time weather analytics for farmers.
-
-**Stack:** `Next.js` · `Golang` · `Python` · `MySQL` · `Gemini API`
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00df8f?style=flat-square&logo=vercel&logoColor=black)](https://rajang.inesa.id)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛍️ LAKOO SaaS
-> **ERP SaaS Platform for UMKM**
-
-Integrated enterprise resource planning (ERP) platform built for small-to-medium enterprises with inventory management, smart financial reporting, and AI recommendation systems.
-
-**Stack:** `Vite.js` · `Golang` · `Python` · `Docker` · `Railway`
-
-[![Repo](https://img.shields.io/badge/Repository-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/IndalAwalaikal/LAKOO-SaaS-ERP)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00df8f?style=flat-square&logo=vercel&logoColor=black)](https://lakoo-saas.web.id)
+`Next.js` `TypeScript` `FastAPI` `LangGraph` `Tailwind`
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 LogicLeap Academy
-> **Interactive Coding & Algorithm Platform**
+<h3 align="center">🌾 AgroAdvisor</h3>
 
-Gamified learning platform for algorithm and programming mastery featuring interactive code editors, visual learning modules, progress tracking, and competitive leaderboards.
+<div align="center">
 
-**Stack:** `React` · `TypeScript` · `Vite` · `Tailwind` · `Framer Motion`
+**Smart Agriculture & AI Advisory Platform**
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00df8f?style=flat-square&logo=vercel&logoColor=black)](https://logicleap-academy.vercel.app/)
+[![Live](https://img.shields.io/badge/🚀_Live_Demo-00df8f?style=for-the-badge&logoColor=black)](https://rajang.inesa.id)
+
+</div>
+
+Smart agriculture platform integrating **Gemini & Groq API** for intelligent crop cultivation recommendations, irrigation scheduling, and weather analytics.
+
+`Next.js` `Golang` `Python` `MySQL` `Gemini API`
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-### 📚 LearnLMS
-> **Full-Stack Learning Management System**
+<h3 align="center">🛍️ LAKOO SaaS</h3>
 
-Comprehensive learning platform supporting dynamic course management, multimedia learning channels, secure authentication, and course subscriptions.
+<div align="center">
 
-**Stack:** `MongoDB` · `Express.js` · `React` · `Node.js` · `Tailwind`
+**ERP Platform for UMKM**
 
-[![Repo](https://img.shields.io/badge/Repository-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/IndalAwalaikal/Learning-Management-System)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00df8f?style=flat-square&logo=vercel&logoColor=black)](https://learnlms.vercel.app)
+[![Repo](https://img.shields.io/badge/⭐_Source_Code-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IndalAwalaikal/LAKOO-SaaS-ERP)
+[![Live](https://img.shields.io/badge/🚀_Live-00df8f?style=for-the-badge&logoColor=black)](https://lakoo-saas.web.id)
+
+</div>
+
+Enterprise resource planning SaaS with **AI recommendation systems**, inventory management, and smart financial reporting for SMEs.
+
+`Vite.js` `Golang` `Python` `Docker` `Railway`
 
 </td>
 <td width="50%" valign="top">
 
-### 🥥 COCONUT Club Systems
-> **e-CO & e-Clas Event & Course Suite**
+<h3 align="center">🧠 LogicLeap Academy</h3>
 
-Full-stack event registration and open-class management platform for COCONUT Computer Club with real-time slot tracking, participant management, and admin dashboards.
+<div align="center">
 
-**Stack:** `React` · `TypeScript` · `Golang` · `MySQL`
+**Interactive Coding & Algorithm Platform**
 
-[![Live Event](https://img.shields.io/badge/e--CO_Live-00df8f?style=flat-square&logo=vercel&logoColor=black)](https://event.coconut.or.id/)
-[![Live Class](https://img.shields.io/badge/e--Clas_Live-00df8f?style=flat-square&logo=vercel&logoColor=black)](https://pendaftaran-coc.vercel.app/)
+[![Live](https://img.shields.io/badge/🚀_Live_Demo-00df8f?style=for-the-badge&logoColor=black)](https://logicleap-academy.vercel.app/)
+
+</div>
+
+Gamified learning platform for **algorithm mastery** with interactive code editors, visual learning, progress tracking, and competitive leaderboards.
+
+`React` `TypeScript` `Vite` `Tailwind` `Framer Motion`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">📚 LearnLMS</h3>
+
+<div align="center">
+
+**Full-Stack Learning Management System**
+
+[![Repo](https://img.shields.io/badge/⭐_Source_Code-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IndalAwalaikal/Learning-Management-System)
+[![Live](https://img.shields.io/badge/🚀_Live-00df8f?style=for-the-badge&logoColor=black)](https://learnlms.vercel.app)
+
+</div>
+
+Full MERN stack LMS supporting dynamic course management, multimedia learning, secure auth, and subscription systems.
+
+`MongoDB` `Express.js` `React` `Node.js` `Tailwind`
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🥥 COCONUT Club Suite</h3>
+
+<div align="center">
+
+**Event & Open-Class Management Platform**
+
+[![e-CO](https://img.shields.io/badge/📅_e--CO_Live-00df8f?style=for-the-badge&logoColor=black)](https://event.coconut.or.id/)
+[![e-Clas](https://img.shields.io/badge/📖_e--Clas_Live-00df8f?style=for-the-badge&logoColor=black)](https://pendaftaran-coc.vercel.app/)
+
+</div>
+
+Full-stack event registration (**e-CO**) and open-class enrollment (**e-Clas**) systems with real-time slot tracking and admin dashboards.
+
+`React` `TypeScript` `Golang` `MySQL`
 
 </td>
 </tr>
 </table>
 
----
-
-## 🏆 Certifications & Verification
-
 <div align="center">
 
-| Certificate / Credential | Issuer | Level / ID | Link |
-|:---|:---|:---:|:---:|
-| 🛡️ **Software Engineering Certification** | TestDome | Advanced | [Verify](https://www.testdome.com/certificates/ee031998d968471fa8791ee8393a6416) |
-| 🐹 **Go (Programming Language) Certification** | TestDome | Advanced | [Verify](https://www.testdome.com/certificates/7623482af4e042f4980d6b2dd95f7000) |
-| 🐍 **Diploma in Scalable Python Web Development** | Alison | Advanced | [Verify](https://alison.com/verify/84e6fb6df3) |
-| ⚡ **NGINX, PHP, MySQL, SSL Server Admin** | Alison | Intermediate | [Verify](https://alison.com/verify/454b2aa578) |
-| 🐬 **MySQL Database Design for Beginners** | Alison | Beginner | [Verify](https://alison.com/verify/7ebb9c2dd8) |
-| ⚛️ **Frontend Development Advanced Class** | MySkill Academy | Advanced | — |
+<br/>
+
+<details>
+<summary><b>🔍 More Projects</b></summary>
+<br/>
+
+| Project | Description | Stack | Link |
+|:---|:---|:---|:---:|
+| 🌌 **EduSpace** | Solar system educational game with HTML5 Canvas | `HTML5` `CSS3` `JavaScript` `Canvas` | [Live](https://eduspace-neon.vercel.app) |
+| 🎯 **Cocopen** | Member recruitment & online exam system for COCONUT | `Next.js` `Go` `MySQL` | [Repo](https://github.com/IndalAwalaikal/cocopen-web-Apps-Now-Open-COCONUT) |
+
+</details>
 
 </div>
 
----
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=IndalAwalaikal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00df8f&icon_color=00df8f&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github" height="195px" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndalAwalaikal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00df8f&text_color=c9d1d9&langs_count=8" height="195px" alt="Top Languages"/>
-
-</div>
+## 🏆 Certifications
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IndalAwalaikal&theme=tokyonight&hide_border=true&background=0d1117&ring=00df8f&fire=00df8f&currStreakLabel=00df8f" alt="GitHub Streak" />
+| &nbsp; | Certificate | Issuer | Level | Verify |
+|:---:|:---|:---|:---:|:---:|
+| <img src="https://img.shields.io/badge/SE-00df8f?style=flat-square&logoColor=black" /> | **Software Engineering** | TestDome | `Advanced` | [🔗](https://www.testdome.com/certificates/ee031998d968471fa8791ee8393a6416) |
+| <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> | **Go (Programming Language)** | TestDome | `Advanced` | [🔗](https://www.testdome.com/certificates/7623482af4e042f4980d6b2dd95f7000) |
+| <img src="https://img.shields.io/badge/Py-3776AB?style=flat-square&logo=python&logoColor=white" /> | **Diploma in Scalable Python Web Dev** | Alison | `Advanced` | [🔗](https://alison.com/verify/84e6fb6df3) |
+| <img src="https://img.shields.io/badge/Srv-009639?style=flat-square&logo=nginx&logoColor=white" /> | **NGINX, PHP, MySQL, SSL** | Alison | `Intermediate` | [🔗](https://alison.com/verify/454b2aa578) |
+| <img src="https://img.shields.io/badge/DB-4479A1?style=flat-square&logo=mysql&logoColor=white" /> | **MySQL Database Design** | Alison | `Beginner` | [🔗](https://alison.com/verify/7ebb9c2dd8) |
+| <img src="https://img.shields.io/badge/FE-6366f1?style=flat-square&logo=react&logoColor=white" /> | **Frontend Development Advanced** | MySkill Academy | `Advanced` | — |
 
 </div>
+
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> &nbsp;GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=IndalAwalaikal&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=IndalAwalaikal&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00df8f&icon_color=00df8f&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=IndalAwalaikal&theme=react&hide_border=true&background=0d1117&ring=00df8f&fire=ff6347&currStreakLabel=00df8f&sideLabels=c9d1d9&dates=546e7a" alt="GitHub Streak"/>
 
 </div>
 
----
-
-## 📈 Contribution Activity
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IndalAwalaikal&theme=github-compact&bg_color=0d1117&color=00df8f&line=00df8f&point=38bdf8&area=true&hide_border=true" alt="Activity Graph" />
+<img src="https://github-profile-trophy.vercel.app/?username=IndalAwalaikal&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies" width="100%"/>
 
 </div>
 
----
+<br/>
+
+<!-- Contribution Graph -->
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IndalAwalaikal&custom_title=Indal's%20Contribution%20Graph&bg_color=0d1117&color=00df8f&line=00df8f&point=ff6347&area_color=0d1117&area=true&hide_border=true&title_color=00df8f" width="100%" alt="Activity Graph"/>
+
+</div>
+
+<br/>
+
+<!-- Snake Animation -->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IndalAwalaikal/IndalAwalaikal/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IndalAwalaikal/IndalAwalaikal/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/IndalAwalaikal/IndalAwalaikal/output/github-snake-dark.svg" width="100%"/>
+</picture>
+
+</div>
+
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## 🥥 Leadership & Community
 
 <div align="center">
 
-> **[COCONUT Computer Club](https://github.com/COCONUT-hacklab)** — Executive Board Member (BPH) & Backend Developer
->
-> 🏛️ Active board member leading backend development initiatives, internal R&D application architecture, and mentoring student developers at Universitas Negeri Makassar.
->
-> 🛡️ **IDSECCONF 2025** — Local Committee Member for IDSECCONF × COCONUT (Makassar).
+<table>
+<tr>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/BPH-Executive_Board-00df8f?style=for-the-badge&labelColor=0d1117" />
+
+**COCONUT Computer Club**
+
+Executive Board Member (BPH) leading organizational strategy & community growth
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/Dev-Backend_Developer-3b82f6?style=for-the-badge&labelColor=0d1117" />
+
+**COCONUT Computer Club**
+
+R&D Backend Developer building internal systems with Go, Python, React & Next.js
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/🛡️-Local_Committee-f59e0b?style=for-the-badge&labelColor=0d1117" />
+
+**IDSECCONF 2025**
+
+Local Committee Member for IDSECCONF × COCONUT cybersecurity conference
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+> <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="18"> &nbsp; _Proud member of **[COCONUT Computer Club](https://github.com/COCONUT-hacklab)** — a collaborative tech community in Makassar building the next generation of developers._
 
 **"Together we build. Together we grow."** 🚀
 
 </div>
 
----
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## 🌐 Let's Connect
+## 📬 Let's Connect & Collaborate
 
 <div align="center">
 
+<br/>
+
 <a href="https://indalawalaikal.my.id">
-  <img src="https://img.shields.io/badge/Portfolio-indalawalaikal.my.id-00df8f?style=for-the-badge&logo=googlechrome&logoColor=black" />
-</a>
-<a href="mailto:indalawalaikal05@gmail.com">
-  <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/indalawalaikal">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/IndalAwalaikal">
-  <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://twitter.com/IndalAwalaikal">
-  <img src="https://img.shields.io/badge/Twitter-1d9bf0?style=for-the-badge&logo=twitter&logoColor=white" />
+  <img src="https://img.shields.io/badge/🌐_Visit_Portfolio-indalawalaikal.my.id-00df8f?style=for-the-badge&labelColor=0d1117&logoColor=00df8f" height="35"/>
 </a>
 
 <br/><br/>
 
-📍 **Makassar, South Sulawesi, Indonesia** &nbsp;|&nbsp; ⏰ **WITA (UTC+8)** &nbsp;|&nbsp; 💬 **Indonesian & English**
+<a href="mailto:indalawalaikal05@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30"/></a>&nbsp;
+<a href="https://linkedin.com/in/indalawalaikal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/></a>&nbsp;
+<a href="https://github.com/IndalAwalaikal"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" height="30"/></a>&nbsp;
+<a href="https://twitter.com/IndalAwalaikal"><img src="https://img.shields.io/badge/Twitter-1d9bf0?style=for-the-badge&logo=twitter&logoColor=white" height="30"/></a>
+
+<br/><br/>
+
+```
+📍 Makassar, South Sulawesi, Indonesia  ·  ⏰ WITA (UTC+8)  ·  💬 Indonesian & English
+```
 
 </div>
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00df8f,25:0f766e,50:1a1f2e,75:161b22,100:0d1117&height=150&section=footer&text=Thanks%20for%20visiting!%20✨&fontSize=24&fontColor=b8f5dc&animation=twinkling&fontAlignY=65" width="100%"/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:0f172a,100:0d1117&height=120&section=footer" width="100%"/>
+_"First, solve the problem. Then, write the code."_ — **John Johnson**
 
-_"First, solve the problem. Then, write the code."_ — John Johnson
+<br/>
 
-**⭐ If you find my projects helpful, feel free to give them a star!**
+**⭐ If you find my work helpful, a star goes a long way!**
+
+<br/>
+
+<img src="https://img.shields.io/badge/Made_with_❤️_in-Makassar,_Indonesia-00df8f?style=flat-square&labelColor=0d1117" />
 
 </div>
