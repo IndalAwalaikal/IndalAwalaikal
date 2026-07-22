@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:161b22,60:1a1f2e,100:00df8f&height=220&section=header&text=Indal%20Awalaikal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20%26%20Backend%20Developer%20%C2%B7%20AI%20Systems%20Integrator&descAlignY=56&descSize=16&descColor=b8f5dc" width="100%"/>
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Indal%20Awalaikal&fontSize=50&fontColor=ffffff" width="100%" alt="Header Banner"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00DF8F&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=40&lines=Full-Stack+%26+Backend+Developer+%7C+Go+%26+Python;Building+AI-Driven+Systems+%26+SaaS+Platforms;Teknik+Informatika+%40+Universitas+Negeri+Makassar;COCONUT+Computer+Club+Executive+Board" alt="Typing SVG" /></a>
@@ -79,7 +79,7 @@ func main() {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndalAwalaikal&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00df8f&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IndalAwalaikal&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00df8f&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 
 </div>
 
@@ -305,7 +305,7 @@ Full-stack event registration (**e-CO**) and open-class enrollment (**e-Clas**) 
 <div align="center">
 
 <a href="https://github.com/IndalAwalaikal">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=IndalAwalaikal&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00df8f&icon_color=00df8f&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=IndalAwalaikal&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00df8f&icon_color=00df8f&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 </a>
 &nbsp;
 <a href="https://github.com/IndalAwalaikal">
@@ -319,7 +319,7 @@ Full-stack event registration (**e-CO**) and open-class enrollment (**e-Clas**) 
 <div align="center">
 
 <a href="https://github.com/IndalAwalaikal">
-<img src="https://github-profile-trophy.vercel.app/?username=IndalAwalaikal&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Trophies"/>
+<img src="https://github-trophies.vercel.app/?username=IndalAwalaikal&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
 </a>
 
 </div>
