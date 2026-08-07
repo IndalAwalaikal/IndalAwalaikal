@@ -85,9 +85,13 @@ func main() {
 </div>
 
 <br/>
-> 🔥 Most used language: **Go** — dipakai untuk backend production-ready, API, microservices, CLI tools, dan automation.
+<div align="center">
+<img src="https://img.shields.io/badge/Primary%20Language-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go Language Badge" />
+</div>
+
+> 🔥 Primary backend language: **Go** — digunakan untuk API, microservices, CLI tools, automation, dan sistem production.
 >
-> 📌 Secondary stack: Python untuk AI/ML backend, TypeScript untuk frontend & full-stack SaaS.
+> 📌 Catatan: grafik GitHub menunjukkan distribusi bahasa di repositori yang dilacak, sedangkan Go tetap menjadi fokus utama saya.
 
 |                | Quick Facts                               |
 | :------------: | :---------------------------------------- |
