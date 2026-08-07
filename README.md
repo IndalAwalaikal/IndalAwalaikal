@@ -93,10 +93,6 @@ func main() {
 <strong>Go</strong> adalah bahasa backend utama saya, khususnya untuk layanan produksi, API, microservice, dan tooling.
 </div>
 
-> 🔥 Primary backend language: **Go** — digunakan untuk API, microservices, CLI tools, automation, dan sistem production.
->
-> 📌 Catatan: grafik `Top Languages` GitHub menghitung bahasa dari repositori yang tersedia dan dapat dipengaruhi oleh repositori lain atau bahasa pendukung. Meski Go adalah fokus utama backend saya, Go mungkin tidak terlihat sebagai persentase tertinggi di widget ini jika repositori Go tidak menjadi mayoritas dalam statistik GitHub.
-
 |                | Quick Facts                               |
 | :------------: | :---------------------------------------- |
 | **Education**  | Teknik Informatika & Komputer, UNM        |
