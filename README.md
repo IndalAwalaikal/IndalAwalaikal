@@ -4,6 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Indal%20Awalaikal&fontSize=50&fontColor=ffffff" width="100%" alt="Header Banner"/>
 
 <!-- Typing Animation -->
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00DF8F&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=40&lines=Full-Stack+%26+Backend+Developer+%7C+Go+%26+Python;Building+AI-Driven+Systems+%26+SaaS+Platforms;Teknik+Informatika+%40+Universitas+Negeri+Makassar;COCONUT+Computer+Club+Executive+Board" alt="Typing SVG" /></a>
 
 <br/>
@@ -56,12 +57,12 @@ func main() {
                    " (BPH & Backend Developer)",
         Website:   "https://indalawalaikal.my.id",
         Stack: []string{
-            "Go (Gin/Fiber)", "Python (FastAPI)",
+            "Go (Gin/Fiber, gRPC)", "Python (FastAPI)",
             "TypeScript", "React/Next.js",
             "PostgreSQL", "Docker",
         },
         Focus: []string{
-            "Scalable Backend & Microservices",
+            "Scalable Go Backend & Microservices",
             "AI Agent & LLM Orchestration",
             "Full-Stack SaaS Platforms",
             "Clean Architecture & TDD",
@@ -84,14 +85,17 @@ func main() {
 </div>
 
 <br/>
+> 🔥 Most used language: **Go** — dipakai untuk backend production-ready, API, microservices, CLI tools, dan automation.
+>
+> 📌 Secondary stack: Python untuk AI/ML backend, TypeScript untuk frontend & full-stack SaaS.
 
-| | Quick Facts |
-|:---:|:---|
-| **Education** | Teknik Informatika & Komputer, UNM |
-| **Community** | COCONUT Computer Club — BPH & Backend Dev |
-| **Conference** | IDSECCONF 2025 Local Committee |
-| **Location** | Makassar, WITA (UTC+8) |
-| **Languages** | Indonesian & English |
+|                | Quick Facts                               |
+| :------------: | :---------------------------------------- |
+| **Education**  | Teknik Informatika & Komputer, UNM        |
+| **Community**  | COCONUT Computer Club — BPH & Backend Dev |
+| **Conference** | IDSECCONF 2025 Local Committee            |
+|  **Location**  | Makassar, WITA (UTC+8)                    |
+| **Languages**  | Indonesian & English                      |
 
 </td>
 </tr>
@@ -131,18 +135,27 @@ func main() {
 <summary><b>Detailed Technology Breakdown</b></summary>
 <br/>
 
-| Layer | Technologies |
-|:---|:---|
-| **Backend** | Go (Gin/Fiber) · Python (FastAPI/Flask) · Node.js · Express.js · REST API · gRPC |
-| **Frontend** | React · Next.js · Vite · TypeScript · Tailwind CSS · Framer Motion |
-| **Database** | PostgreSQL · MySQL · MongoDB · Redis · Query Optimization |
-| **DevOps** | Docker · NGINX · GitHub Actions · CI/CD · Linux · AWS |
-| **AI/ML** | LangGraph · Gemini API · Groq · Multi-LLM Orchestration |
-| **Practices** | Clean Architecture · SOLID · DDD · TDD · Microservices |
+| Layer         | Technologies                                                                                |
+| :------------ | :------------------------------------------------------------------------------------------ |
+| **Backend**   | Go (Gin/Fiber, gRPC, CLI) · Python (FastAPI/Flask) · Node.js · Express.js · REST API · gRPC |
+| **Frontend**  | React · Next.js · Vite · TypeScript · Tailwind CSS · Framer Motion                          |
+| **Database**  | PostgreSQL · MySQL · MongoDB · Redis · Query Optimization                                   |
+| **DevOps**    | Docker · NGINX · GitHub Actions · CI/CD · Linux · AWS                                       |
+| **AI/ML**     | LangGraph · Gemini API · Groq · Multi-LLM Orchestration                                     |
+| **Practices** | Clean Architecture · SOLID · DDD · TDD · Microservices                                      |
 
 </details>
 
 </div>
+
+---
+
+## Go Mastery
+
+- **Primary backend language**: Go untuk API, layanan microservice, dan automation.
+- **Frameworks**: Gin, Fiber, gRPC, net/http, Cobra, and Go modules.
+- **Patterns**: Concurrency with goroutines & channels, clean architecture, layered services, dependency injection, and unit testing.
+- **Production readiness**: Docker, CI/CD pipelines, observability with Prometheus/OpenTelemetry, logging, and cloud-native deployment.
 
 ---
 
@@ -274,10 +287,10 @@ Full-stack event registration (**e-CO**) and open-class enrollment (**e-Clas**) 
 <summary><b>More Projects</b></summary>
 <br/>
 
-| Project | Description | Stack | Link |
-|:---|:---|:---|:---:|
-| **EduSpace** | Solar system educational game with HTML5 Canvas | `HTML5` `CSS3` `JavaScript` `Canvas` | [Live](https://eduspace-neon.vercel.app) |
-| **Cocopen** | Member recruitment & online exam system for COCONUT | `Next.js` `Go` `MySQL` | [Repo](https://github.com/IndalAwalaikal/cocopen-web-Apps-Now-Open-COCONUT) |
+| Project      | Description                                         | Stack                                |                                    Link                                     |
+| :----------- | :-------------------------------------------------- | :----------------------------------- | :-------------------------------------------------------------------------: |
+| **EduSpace** | Solar system educational game with HTML5 Canvas     | `HTML5` `CSS3` `JavaScript` `Canvas` |                  [Live](https://eduspace-neon.vercel.app)                   |
+| **Cocopen**  | Member recruitment & online exam system for COCONUT | `Next.js` `Go` `MySQL`               | [Repo](https://github.com/IndalAwalaikal/cocopen-web-Apps-Now-Open-COCONUT) |
 
 </details>
 
@@ -287,14 +300,14 @@ Full-stack event registration (**e-CO**) and open-class enrollment (**e-Clas**) 
 
 <div align="center">
 
-| | Certificate | Issuer | Level | Verify |
-|:---:|:---|:---|:---:|:---:|
-| <img src="https://img.shields.io/badge/SE-00df8f?style=flat-square" /> | **Software Engineering** | TestDome | `Advanced` | [Link](https://www.testdome.com/certificates/ee031998d968471fa8791ee8393a6416) |
-| <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> | **Go Programming Language** | TestDome | `Advanced` | [Link](https://www.testdome.com/certificates/7623482af4e042f4980d6b2dd95f7000) |
-| <img src="https://img.shields.io/badge/Py-3776AB?style=flat-square&logo=python&logoColor=white" /> | **Diploma in Scalable Python Web Dev** | Alison | `Advanced` | [Link](https://alison.com/verify/84e6fb6df3) |
-| <img src="https://img.shields.io/badge/Srv-009639?style=flat-square&logo=nginx&logoColor=white" /> | **NGINX, PHP, MySQL, SSL** | Alison | `Intermediate` | [Link](https://alison.com/verify/454b2aa578) |
-| <img src="https://img.shields.io/badge/DB-4479A1?style=flat-square&logo=mysql&logoColor=white" /> | **MySQL Database Design** | Alison | `Beginner` | [Link](https://alison.com/verify/7ebb9c2dd8) |
-| <img src="https://img.shields.io/badge/FE-6366f1?style=flat-square&logo=react&logoColor=white" /> | **Frontend Development Advanced** | MySkill Academy | `Advanced` | — |
+|                                                                                                    | Certificate                            | Issuer          |     Level      |                                     Verify                                     |
+| :------------------------------------------------------------------------------------------------: | :------------------------------------- | :-------------- | :------------: | :----------------------------------------------------------------------------: |
+|               <img src="https://img.shields.io/badge/SE-00df8f?style=flat-square" />               | **Software Engineering**               | TestDome        |   `Advanced`   | [Link](https://www.testdome.com/certificates/ee031998d968471fa8791ee8393a6416) |
+|   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />   | **Go Programming Language**            | TestDome        |   `Advanced`   | [Link](https://www.testdome.com/certificates/7623482af4e042f4980d6b2dd95f7000) |
+| <img src="https://img.shields.io/badge/Py-3776AB?style=flat-square&logo=python&logoColor=white" /> | **Diploma in Scalable Python Web Dev** | Alison          |   `Advanced`   |                  [Link](https://alison.com/verify/84e6fb6df3)                  |
+| <img src="https://img.shields.io/badge/Srv-009639?style=flat-square&logo=nginx&logoColor=white" /> | **NGINX, PHP, MySQL, SSL**             | Alison          | `Intermediate` |                  [Link](https://alison.com/verify/454b2aa578)                  |
+| <img src="https://img.shields.io/badge/DB-4479A1?style=flat-square&logo=mysql&logoColor=white" />  | **MySQL Database Design**              | Alison          |   `Beginner`   |                  [Link](https://alison.com/verify/7ebb9c2dd8)                  |
+| <img src="https://img.shields.io/badge/FE-6366f1?style=flat-square&logo=react&logoColor=white" />  | **Frontend Development Advanced**      | MySkill Academy |   `Advanced`   |                                       —                                        |
 
 </div>
 
