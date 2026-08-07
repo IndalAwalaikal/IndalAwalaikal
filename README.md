@@ -114,7 +114,12 @@ func main() {
 <br/>
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs,express,tanstack&theme=dark&perline=6" alt="Frameworks"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs,express&theme=dark&perline=6" alt="Frameworks"/>
+</a>
+
+<br/>
+<a href="https://tanstack.com" title="TanStack">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/tanstack.svg" width="50" alt="TanStack Logo" />
 </a>
 
 <br/>
