@@ -89,9 +89,13 @@ func main() {
 <img src="https://img.shields.io/badge/Primary%20Language-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go Language Badge" />
 </div>
 
+<div align="center">
+<strong>Go</strong> adalah bahasa backend utama saya, khususnya untuk layanan produksi, API, microservice, dan tooling.
+</div>
+
 > 🔥 Primary backend language: **Go** — digunakan untuk API, microservices, CLI tools, automation, dan sistem production.
 >
-> 📌 Catatan: grafik GitHub menunjukkan distribusi bahasa di repositori yang dilacak, sedangkan Go tetap menjadi fokus utama saya.
+> 📌 Catatan: grafik `Top Languages` GitHub menghitung bahasa dari repositori yang tersedia dan dapat dipengaruhi oleh repositori lain atau bahasa pendukung. Meski Go adalah fokus utama backend saya, Go mungkin tidak terlihat sebagai persentase tertinggi di widget ini jika repositori Go tidak menjadi mayoritas dalam statistik GitHub.
 
 |                | Quick Facts                               |
 | :------------: | :---------------------------------------- |
@@ -142,7 +146,7 @@ func main() {
 | Layer         | Technologies                                                                                |
 | :------------ | :------------------------------------------------------------------------------------------ |
 | **Backend**   | Go (Gin/Fiber, gRPC, CLI) · Python (FastAPI/Flask) · Node.js · Express.js · REST API · gRPC |
-| **Frontend**  | React · Next.js · Vite · TypeScript · Tailwind CSS · Framer Motion                          |
+| **Frontend**  | React · Next.js · Vite · TypeScript · Tailwind CSS · Framer Motion · TanStack               |
 | **Database**  | PostgreSQL · MySQL · MongoDB · Redis · Query Optimization                                   |
 | **DevOps**    | Docker · NGINX · GitHub Actions · CI/CD · Linux · AWS                                       |
 | **AI/ML**     | LangGraph · Gemini API · Groq · Multi-LLM Orchestration                                     |
