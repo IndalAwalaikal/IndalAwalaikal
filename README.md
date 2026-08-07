@@ -89,14 +89,6 @@ func main() {
 <img src="https://img.shields.io/badge/Primary%20Language-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go Language Badge" />
 </div>
 
-<div align="center">
-<strong>Go</strong> adalah bahasa backend utama saya, khususnya untuk layanan produksi, API, microservice, dan tooling.
-</div>
-
-> 🔥 Primary backend language: **Go** — digunakan untuk API, microservices, CLI tools, automation, dan sistem production.
->
-> 📌 Catatan: grafik `Top Languages` GitHub menghitung bahasa dari repositori yang tersedia dan dapat dipengaruhi oleh repositori lain atau bahasa pendukung. Meski Go adalah fokus utama backend saya, Go mungkin tidak terlihat sebagai persentase tertinggi di widget ini jika repositori Go tidak menjadi mayoritas dalam statistik GitHub.
-
 |                | Quick Facts                               |
 | :------------: | :---------------------------------------- |
 | **Education**  | Teknik Informatika & Komputer, UNM        |
@@ -122,7 +114,7 @@ func main() {
 <br/>
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs,express&theme=dark&perline=6" alt="Frameworks"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs,express,tanstack&theme=dark&perline=6" alt="Frameworks"/>
 </a>
 
 <br/>
