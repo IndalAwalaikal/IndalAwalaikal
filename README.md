@@ -119,7 +119,7 @@ func main() {
 
 <br/>
 <a href="https://tanstack.com" title="TanStack">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/tanstack.svg" width="50" alt="TanStack Logo" />
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tanstack.svg" width="50" alt="TanStack Logo" />
 </a>
 
 <br/>
